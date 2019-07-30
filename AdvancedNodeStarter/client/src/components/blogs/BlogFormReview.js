@@ -67,7 +67,6 @@ class BlogFormReview extends Component {
           type="file" 
           accept="image/*" 
           />
-
         {this.renderButtons()}
       </form>
     );
